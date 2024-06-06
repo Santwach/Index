@@ -1,1 +1,18 @@
+<html>
+<head>
+<title>Index Computación Básica</title>
+</head>
+<body link="#01DFA5" alink="orange" vlink="brown" bgcolor="#F5A9F2">
 
+<h1>Páginas Web</h1>
+<ul type="square">
+ <li><a href="https://santwach.github.io/Estructura-basica/">Estructura Básica y Texto</a></li><br>
+ <li><a href="https://santwach.github.io/Lineas-y-listas/">Listas y lineas</a></li><br>
+ <li><a href="https://santwach.github.io/Hipervinculos/">Hipervinculos</a></li><br>
+ <li><a href="https://santwach.github.io/Tablas/">Tablas</a></li><br>
+</ul>
+<h2>Prácticas</h2>
+ <li><a href="https://santwach.github.io/Continentes/">Continentes</a></li><br>
+ 
+</body>
+</html>
